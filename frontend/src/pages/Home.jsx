@@ -3,9 +3,9 @@ import { Container,Row,Col } from "react-bootstrap"
 
 const Home = () =>{
     return(
-        <Container fluid>
+        <Container fluid >
             <Row>
-                <Col>
+                <Col >
                     <h1>Home Page</h1>
                 </Col>
             </Row>
