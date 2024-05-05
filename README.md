@@ -1,6 +1,5 @@
 # Asylum Connect
-Our product aims at not only helping migrants with finding interpreters but also with all other manners of language translation.  From translating messages to offering language learning courses, our app strives to empower asylum seekers with the language skills they need to navigate various aspects of their lives in a new country.  
-
+“Asylum Connect: Empowering voices, Breaking Barriers” serves as a source of hope and support for migrants entering the United States. It provides accessible language interpretation services, language learning resources, and an easy-to-use platform that helps to break down barriers and empower migrants on their journey towards integration and success
 ## Development Status
 
 - Currently we have the design build complete for our website.
